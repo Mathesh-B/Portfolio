@@ -1,0 +1,50 @@
+.title{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.name{
+    background-color: black;
+    color: white;
+    margin: 10px 0px;
+    padding: 10px;
+}
+a{
+    border: solid red;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.content{
+    display: flex;
+    gap: 20px
+    ;
+    
+}
+.interest{
+    border: solid orangered;
+    border-radius: 15px;
+    background-color: orangered;
+    padding: 5px;   
+}
+.project{border: solid burlywood;
+    border-radius: 15px;
+    background-color: burlywood;
+    padding: 5px; 
+}
+.footer{
+    background-color: black;
+    color: white;
+    margin: 10px 0px;
+    padding: 20px;
+}
+button{
+    margin: 10px 85px;
+    
+    background-color: orangered;
+    color: white;
+    border: solid orangered;
+    border-radius: 5px;
+}
